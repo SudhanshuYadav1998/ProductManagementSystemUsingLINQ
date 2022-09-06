@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\bin\Debug\net6.0\ProductManagementSystemUC-1.exe
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\bin\Debug\net6.0\ProductManagementSystemUC-1.deps.json
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\bin\Debug\net6.0\ProductManagementSystemUC-1.runtimeconfig.json
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\bin\Debug\net6.0\ProductManagementSystemUC-1.dll
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\bin\Debug\net6.0\ProductManagementSystemUC-1.pdb
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ProductManagementSystemUC-1.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ProductManagementSystemUC-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ProductManagementSystemUC-1.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ProductManagementSystemUC-1.AssemblyInfo.cs
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ProductManagementSystemUC-1.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ProductManagementSystemUC-1.dll
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\refint\ProductManagementSystemUC-1.dll
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ProductManagementSystemUC-1.pdb
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ProductManagementSystemUC-1.genruntimeconfig.cache
+C:\RFP\C_sharp\ProductManagementSystemUC-1\ProductManagementSystemUC-1\obj\Debug\net6.0\ref\ProductManagementSystemUC-1.dll
